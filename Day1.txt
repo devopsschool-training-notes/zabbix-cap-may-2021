@@ -1,5 +1,5 @@
 How to setup Zabbix Server?
-https://www.devopsschool.com/blog/how-to-setup-zabbix-server-frontend-in-rhel-7/
+https://www.devopsschool.com/blog/how-to-setup-zabbix-server-frontend-in-centos-7/
 
 
 Venkat	65.0.170.7		NOT DONE
