@@ -2,16 +2,17 @@ How to setup Zabbix Server?
 https://www.devopsschool.com/blog/how-to-setup-zabbix-server-frontend-in-rhel-7/
 
 
-Venkat	52.66.237.77
-Nikhil	13.233.147.136
-Aakash	13.232.145.20
-Keerthana	65.0.5.218
-Manoj	13.232.209.43
-Vinay	65.2.69.211
+Venkat	65.0.170.7		NOT DONE
+Nikhil	65.2.3.209		NOT DONE
+Aakash	65.0.20.36		NOT DONE
+Keerthana	52.66.240.223	NOT DONE
+Manoj	65.1.95.11		NOT DONE
+Vinay	65.2.81.4		NOT DONE
 
-Shweta	65.2.57.25
-Sagar	3.108.54.56
-Shikha	52.66.255.104
+Shweta	13.232.191.128		NOT DONE
+Sagar	13.234.76.85		NOT DONE
+Shikha	15.207.249.238		NOT DONE
+
 
 username - centos
 Key - rajesh-mumbai.ppk
